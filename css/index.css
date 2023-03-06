@@ -25,6 +25,10 @@ ul {
     padding: 25px;
 }
 
+#hero {
+    width: 800px;
+
+}
 .content {
     height: 600px;
 }
